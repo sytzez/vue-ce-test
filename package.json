@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "node esbuild.config.js"
+  },
+  "dependencies": {
+    "esbuild": "^0.24.0",
+    "sass": "^1.80.6",
+    "unplugin-vue": "^5.1.5"
+  }
+}
